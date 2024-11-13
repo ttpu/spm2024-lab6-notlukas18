@@ -6,4 +6,6 @@
 And here in this `Readme.md` file, put the screenshot of important results (logs, action scripts and etc...)
 
 ## Your screenshots in order:
+![step 2](https://github.com/user-attachments/assets/d9e33806-ae04-461c-bf5e-d5dbb7f89e67)
+
 
