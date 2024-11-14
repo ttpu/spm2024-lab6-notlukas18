@@ -16,3 +16,5 @@ And here in this `Readme.md` file, put the screenshot of important results (logs
 ![step 5](https://github.com/user-attachments/assets/a5c3bceb-d4e5-419a-a4ff-204572860ef9)
 
 ![Step 6](https://github.com/user-attachments/assets/c5382ca3-45a6-4e21-b9f3-826dcff4291e)
+
+![Finish](https://github.com/user-attachments/assets/c64336f8-a2c9-4237-8a8a-e5b5eeb86b7b)
